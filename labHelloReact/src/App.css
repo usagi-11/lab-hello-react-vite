@@ -1,0 +1,23 @@
+.top {
+  background-color: rgb(27, 34, 57);
+  height: 400px;
+  margin: 10px;
+}
+
+.logo {
+  width: 30px;
+}
+
+h1 {
+  color: white;
+}
+
+.p1 {
+  color: white;
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  background-color: white;
+}
